@@ -1,0 +1,73 @@
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe.config
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.pdb
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csprojAssemblyReference.cache
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FAutores.resources
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Properties.Resources.resources
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.GenerateResource.cache
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CoreCompileInputs.cache
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.exe
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.pdb
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.dll
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.xml
+C:\Users\stud\493\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FlowerCard.resources
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Katalog.resources
+C:\Users\stud\493\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CopyComplete
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.AssemblyReference.cache
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.SuggestedBindingRedirects.cache
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.exe
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.pdb
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe.config
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.pdb
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.dll
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.xml
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FAutores.resources
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FlowerCard.resources
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Katalog.resources
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Properties.Resources.resources
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.GenerateResource.cache
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CoreCompileInputs.cache
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CopyComplete
+C:\Users\young\Downloads\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Forms.FlowerEditForm.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.exe
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.pdb
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe.config
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.pdb
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.dll
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.xml
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FAutores.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FlowerCard.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Forms.FlowerEditForm.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Katalog.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Properties.Resources.resources
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.GenerateResource.cache
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CoreCompileInputs.cache
+C:\Users\stud\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CopyComplete
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.AssemblyReference.cache
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.SuggestedBindingRedirects.cache
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.exe
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.pdb
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe.config
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.exe
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\OOO_Violet.pdb
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.dll
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.xml
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FAutores.resources
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.FlowerCard.resources
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Forms.FlowerEditForm.resources
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Katalog.resources
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.Properties.Resources.resources
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.GenerateResource.cache
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CoreCompileInputs.cache
+C:\Users\young\Downloads\Flower Shop\OOO_Violet\OOO_Violet\obj\Debug\OOO_Violet.csproj.CopyComplete

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aaadf8b52ac843efa3ccd123e8abcaf2" Name="Diagram1">
+        <EntityTypeShape EntityType="OOO_VioletModel.Category" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.Manufacturer" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.Provide" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.Role" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.Unit" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OOO_VioletModel.User" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="OOO_VioletModel.FK__Product__Product__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="OOO_VioletModel.FK__Product__Product__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="OOO_VioletModel.FK__Product__Product__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="OOO_VioletModel.FK__Product__Product__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="OOO_VioletModel.FK__User__UserRole__33D4B598" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
